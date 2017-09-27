@@ -1,0 +1,4 @@
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.aud filter=lfs diff=lfs merge=lfs -text
+*.au filter=lfs diff=lfs merge=lfs -text
